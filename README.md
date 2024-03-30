@@ -1,10 +1,6 @@
 # MLTE
 
 
-# Model Card for Model ID
-
-<!-- Provide a quick summary of what the model is/does. -->
-
 This is finetuned on LLaMA2 7B Chat model. Get details at this [Hugging face](https://huggingface.co/sainv/MLTE_llam2_multilingual_T2I_prompt_gen).
 when input prompt is in non-english language many Text-to-Image generation models fail to generate relevent images.
 To solve this we finetuned Llama2 model in Indian languages (telugu and hindi).
