@@ -1,7 +1,7 @@
 # MLTE
 
 
-This is finetuned on LLaMA2 7B Chat model. Get details at this [Hugging face](https://huggingface.co/sainv/MLTE_llam2_multilingual_T2I_prompt_gen).
+This is finetuned on LLaMA2 7B Chat model. Get details at this [Hugging face](https://huggingface.co/sainv/MLTE_llama2_multilingual_T2I_prompt_gen).
 when input prompt is in non-english language many Text-to-Image generation models fail to generate relevent images.
 To solve this we finetuned Llama2 model in Indian languages (telugu and hindi).
 Our target was to achieve 4 things.To handle
@@ -40,7 +40,7 @@ MLTE can be used with any text to image generating models.
 
 <!-- Provide the basic links for the model. -->
 
-- **Hugging Face Repository:**[Hugging face](https://huggingface.co/sainv/MLTE_llam2_multilingual_T2I_prompt_gen)
+- **Hugging Face Repository:**[Hugging face](https://huggingface.co/sainv/MLTE_llama2_multilingual_T2I_prompt_gen)
 - **Paper :** under review
 - **Demo :**    
 
