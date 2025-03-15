@@ -40,9 +40,9 @@ MLTE can be used with any text to image generating models.
 
 <!-- Provide the basic links for the model. -->
 
-- **Hugging Face Repository:**[Hugging face](https://huggingface.co/sainv/MLTE_llama2_multilingual_T2I_prompt_gen)
-- **Paper :** under review
-- **Demo :**    
+- **Hugging Face Repository:** [Hugging face](https://huggingface.co/sainv/MLTE_llama2_multilingual_T2I_prompt_gen)
+- **Paper :** [IEEE 10.1109/ICAAIC60222.2024.10575122](https://ieeexplore.ieee.org/document/10575122)
+- **Demo :** [youtube](https://youtu.be/zn1Jb1dMcbw?si=npl7JaCbjiALCReg)
 
 
 ### Direct Use
